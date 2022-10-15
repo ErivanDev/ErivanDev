@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErivanDev, your can access my portfolio in https://erivandev.github.io.
+- 👋 Hi, I’m @ErivanDev, you can access my portfolio in https://erivandev.github.io.
 - 👀 I’m interested in Web Development, Game Development and Machine Learning.
 - 🌱 I’m currently learning Django. <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me, erivan@alu.ufc.br.
